@@ -10,7 +10,6 @@ namespace MyGitWebSite.Controllers
 	{
 		public ActionResult Index()
 		{
-			abc
 			return View();
 		}
 
